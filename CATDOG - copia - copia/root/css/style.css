@@ -1,0 +1,248 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    
+}
+
+
+/*----------------comienza header*/
+.contenedor-header1{
+    align-items: center;
+    background: black;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    height: 18px;
+    justify-content: space-between ;
+    width: 1014px;
+    padding: 5PX;
+}
+
+H5{
+    color: white;
+}
+
+.contenedor-header2{
+    align-items: center;
+    background: orange;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    height: 64px;
+    justify-content: space-between;
+    width: 1024px;
+}
+
+H3{
+    color: white;
+}
+
+#lista-nav li{
+    display: inline;
+    ;
+}
+
+/*----------------comienza Body section*/
+
+.contenedor-body1{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    z-index: 1;
+    
+
+}
+
+.contenedor-body2{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    position: relative;
+    top: -280px;
+    left: 650px;
+    z-index: 2;
+
+}
+
+.contenedor3-body-boton{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    position: relative;
+    top: -280px;
+    left: 750px;
+    z-index: 2;
+
+}
+
+/*----------------comienza Body article*/
+
+.contenedor-body4{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    position: relative;
+    padding: 5PX;
+    top: -140px;
+    left: 480px;
+}
+
+.contenedor-body4b{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    position: relative;
+    padding: 5PX;
+    top: -140px;
+    left: 320px;
+}
+.contenedor-body5{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    position: relative;
+    padding: 5PX;
+    top: -130px;
+    left: 390px;
+}
+.contenedor-body6{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    position: relative;
+    padding: 5PX;
+    top: -159px;
+    left: 495px;
+}
+
+.contenedor-body7{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    position: relative;
+    padding: 5PX;
+    top: -187px;
+    left: 600px;
+}
+
+.contenedor-body8{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    position: relative;
+    padding: 5PX;
+    top: -150px;
+    left: 100px;
+}
+
+.contenedor-body9{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    position: relative;
+    padding: 5PX;
+    top: -475px;
+    left: 390px;
+}
+.contenedor-body10{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    position: relative;
+    padding: 5PX;
+    top: -800px;
+    left: 680px;
+}
+/*----------------comienza Body form1*/
+.contenedor-form{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    position: relative;
+    padding: 5PX;
+    top: -750px;
+    left: 350px;
+}
+
+/*----------------comienza footer*/
+.cont-naranja{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    position: relative;
+    padding: 5PX;
+    top: -685px;
+    left: 0px;
+}
+
+.cont-marron{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    position: relative;
+    padding: 5PX;
+    top: -1150px;
+    left: 0px;
+}
+
+.cont-negro{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    position: relative;
+    padding: 5PX;
+    top: -1965px;
+    left: 0px;
+}
+
+
+
+.img-logofoo{
+    display: absolute;
+    position: relative;
+    width: 300px;
+    height: 400px;
+    top: -1720px;
+    left: 770px;
+    z-index: 3;
+}
+
+
+.contenedor-flex{
+
+    display: flex;
+    font-size:medium;
+    font-style: white;
+    position: relative;
+    top: -750px;
+    height: 50px;
+    right: -10px;
+    z-index: 1;
+   
+
+}
+
+.contenedor-flex1{
+    display: absolute;
+    position: relative;
+    width: 300px;
+    height: 400px;
+    top: -795px;
+    left: 680px;
+    z-index: 4;
+
+}
+
+
+.contenedor-flex-foot3{
+
+    display: absolute;
+    position: relative;
+    width: 300px;
+    height: 400px;
+    top: -1400px;
+    left: 30px;
+
+    z-index: 2;
+
+}
